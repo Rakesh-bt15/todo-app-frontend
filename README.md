@@ -1,4 +1,4 @@
-Full Stack Todo App:
+MERN Full Stack Todo App:
 A full-stack Todo application built using React, Node.js, Express, and MongoDB that allows users to register, login, and manage their daily tasks.
 
 This project demonstrates authentication flow, REST API integration, and deployment of frontend and backend separately.
