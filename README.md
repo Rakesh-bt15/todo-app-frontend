@@ -6,10 +6,10 @@ This project demonstrates authentication flow, REST API integration, and deploym
 
 🛠 Tech Stack
 Frontend:
-React
-React Router
-Axios
-Tailwind CSS
+React,
+React Router,
+Axios,
+Tailwind CSS,
 React Toastify
 
 Backend:
