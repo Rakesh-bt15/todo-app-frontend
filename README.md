@@ -13,29 +13,29 @@ Tailwind CSS
 React Toastify
 
 Backend:
-Node.js
-Express.js
-MongoDB (Mongoose)
-bcrypt (Password hashing)
-dotenv
+Node.js,
+Express.js,
+MongoDB (Mongoose),
+bcrypt (Password hashing),
+dotenv,
 CORS
 
 Features:
-User Registration
-User Login
+User Registration,
+User Login,
 Logout
 
-Todo Management
-Create Todos
-View Todos
-Update Todos
+Todo Management:
+Create Todos,
+View Todos,
+Update Todos,
 Delete Todos
 
 UI/UX
-Responsive Navbar
-Conditional navigation (Login/Logout)
-Toast notifications
-Mobile-friendly layout
+Responsive Navbar,
+Conditional navigation (Login/Logout),
+Toast notifications,
+Mobile-friendly layout,
 
 📁 Project Structure
 todo-app/
